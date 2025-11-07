@@ -348,3 +348,7 @@
 2025.11.07 19:08:28 INFO  compiling complete big data prj_d5c0a6989e (1 scala source)
 2025.11.07 19:08:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
 2025.11.07 19:08:30 INFO  time: indexed workspace in 2.31s
+Nov 07, 2025 10:10:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 07, 2025 10:10:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
