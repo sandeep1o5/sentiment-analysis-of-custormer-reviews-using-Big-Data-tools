@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/sandeepsanakkayala/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/sandeepsanakkayala/Downloads/Complete BIG DATA PRJ/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/sandeepsanakkayala/Downloads/Complete BIG DATA PRJ/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/sandeepsanakkayala/Downloads/Complete BIG DATA PRJ/.scala-build/ide-envs.json",
+    "/Users/sandeepsanakkayala/Downloads/Complete BIG DATA PRJ"
+  ],
+  "version": "1.8.3",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
